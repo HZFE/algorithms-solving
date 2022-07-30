@@ -11,6 +11,7 @@ name: Daily Algorithms
 on:
   schedule:
     - cron: 38 15 * * *
+  workflow_dispatch:
 
 jobs:
   create_issue:
