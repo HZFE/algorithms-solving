@@ -21,7 +21,7 @@ jobs:
       issues: write
     steps:
       - name: Today's date
-        run: echo "TODAY=$(date '+%Y-%m-%d')" >> $GITHUB_ENV
+        run: echo "TODAY=$(TZ=UTC-8 date '+%Y-%m-%d')" >> $GITHUB_ENV
       - name: Create algorithms issue
         uses: imjohnbo/issue-bot@3daae12aa54d38685d7ff8459fc8a2aee8cea98b
         with:
