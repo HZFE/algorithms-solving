@@ -10,7 +10,7 @@
 name: Daily Algorithms
 on:
   schedule:
-    - cron: 38 15 * * *
+    - cron: 05 16 * * *
   workflow_dispatch:
 
 jobs:
