@@ -1,0 +1,34 @@
+# This workflow uses actions that are not certified by GitHub.
+# They are provided by a third-party and are governed by
+# separate terms of service, privacy policy, and support
+# documentation.
+
+# GitHub recommends pinning actions to a commit SHA.
+# To get a newer version, you will need to update the SHA.
+# You can also reference a tag or branch, but the action may change without warning.
+
+name: Daily Algorithms
+on:
+  schedule:
+    - cron: 0 0 * * *
+
+jobs:
+  create_issue:
+    name: Create algorithms issue
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Today's date
+        run: echo "TODAY=$(date '+%Y-%m-%d')" >> $GITHUB_ENV
+      - name: Create algorithms issue
+        uses: imjohnbo/issue-bot@3daae12aa54d38685d7ff8459fc8a2aee8cea98b
+        with:
+          assignees: ""
+          labels: "Daily Algorithms"
+          title: "${{ env.TODAY }}"
+          body: ""
+          pinned: false
+          close-previous: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
