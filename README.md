@@ -1,4 +1,4 @@
-# solve-algorithms
+# Algorithm Solving
 
 记录群友的每日算法题
 
