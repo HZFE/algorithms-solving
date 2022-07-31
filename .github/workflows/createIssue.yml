@@ -25,7 +25,7 @@ jobs:
       - name: Read List
         id: readList
         run: |
-          content=`ls $GITHUB_WORKSPACE`
+          content=`ls $PWD`
           # the following lines are only required for multi line json
           # content="${content//'%'/'%25'}"
           # content="${content//$'\n'/'%0A'}"
