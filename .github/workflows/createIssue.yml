@@ -25,6 +25,7 @@ jobs:
       - name: Read List
         id: readList
         run: |
+          ls $PWD
           content=`cat ./list.json`
           # the following lines are only required for multi line json
           content="${content//'%'/'%25'}"
