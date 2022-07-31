@@ -25,15 +25,17 @@ jobs:
       - name: Read List
         id: readList
         run: |
-          content=`cat $GITHUB_WORKSPACE/list.json`
+          content=`ls $GITHUB_WORKSPACE`
           # the following lines are only required for multi line json
-          content="${content//'%'/'%25'}"
-          content="${content//$'\n'/'%0A'}"
-          content="${content//$'\r'/'%0D'}"
+          # content="${content//'%'/'%25'}"
+          # content="${content//$'\n'/'%0A'}"
+          # content="${content//$'\r'/'%0D'}"
           # end of optional handling for multi line json
+          echo $content
           echo "::set-output name=list::$content"
       - run: |
-          echo "${{fromJson(steps.readList.outputs.list).easy}}"
+          # echo "${{fromJson(steps.readList.outputs.list).easy}}"
+          echo "${{steps.readList.outputs.list}}"
       - name: Create algorithms issue
         uses: imjohnbo/issue-bot@3daae12aa54d38685d7ff8459fc8a2aee8cea98b
         with:
