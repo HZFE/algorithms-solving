@@ -25,7 +25,13 @@ jobs:
       - name: Read List
         id: readList
         run: |
-          ls $PWD
+          content=`cat $GITHUB_WORKSPACE/list.json`
+          # the following lines are only required for multi line json
+          content="${content//'%'/'%25'}"
+          content="${content//$'\n'/'%0A'}"
+          content="${content//$'\r'/'%0D'}"
+          # end of optional handling for multi line json
+          echo "::set-output name=list::$content"
       - run: |
           echo "${{fromJson(steps.readList.outputs.list).easy}}"
       - name: Create algorithms issue
