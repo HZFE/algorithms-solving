@@ -13,7 +13,7 @@
 - [x] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [ ] [Path Sum Iii](https://leetcode.com/problems/path-sum-iii/)
 - [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
-- [ ] [Inverse Binary Tree](https://leetcode.com/problems/inverse-binary-tree/)
+- [ ] [Inverse Binary Tree]([https://leetcode.com/problems/invert-binary-tree/)
 - [ ] [Merge Two Binary Tree](https://leetcode.com/problems/merge-two-binary-tree/)
 - [ ] [Majority Element](https://leetcode.com/problems/majority-element/)
 - [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
