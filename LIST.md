@@ -10,7 +10,7 @@
 - [x] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 - [x] [Intersection Of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [ ] [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
-- [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [x] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [ ] [Path Sum Iii](https://leetcode.com/problems/path-sum-iii/)
 - [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
 - [ ] [Inverse Binary Tree](https://leetcode.com/problems/inverse-binary-tree/)
