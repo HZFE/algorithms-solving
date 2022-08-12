@@ -15,7 +15,7 @@
 - [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
 - [x] [Inverse Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [x] [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
-- [ ] [Majority Element](https://leetcode.com/problems/majority-element/)
+- [x] [Majority Element](https://leetcode.com/problems/majority-element/)
 - [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [ ] [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
