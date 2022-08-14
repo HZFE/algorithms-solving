@@ -2,7 +2,7 @@
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [x] [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [House Robber](https://leetcode.com/problems/house-robber/)
+- [x] [House Robber](https://leetcode.com/problems/house-robber/)
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [x] [Single Number](https://leetcode.com/problems/single-number/)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
