@@ -17,7 +17,7 @@
 - [x] [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
 - [x] [Majority Element](https://leetcode.com/problems/majority-element/)
 - [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
-- [ ] [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+- [x] [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [ ] [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [ ] [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
