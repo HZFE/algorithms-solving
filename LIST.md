@@ -19,7 +19,7 @@
 - [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [x] [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [x] [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [ ] [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [ ] [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 - [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
