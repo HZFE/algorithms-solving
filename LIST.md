@@ -20,7 +20,7 @@
 - [x] [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [x] [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-- [ ] [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [x] [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [ ] [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 - [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
