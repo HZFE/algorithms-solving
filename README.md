@@ -11,6 +11,10 @@
 
 ## 题目列表
 
-目前暂定按照下面的列表来刷题
+<del>目前暂定按照下面的列表来刷题</del>
 
-https://github.com/HZFE/algorithms-solving/blob/main/LIST.md
+<del>https://github.com/HZFE/algorithms-solving/blob/main/LIST.md</del>
+
+2022.8.22
+
+发现了一个很不错的算法题列表&讲解：https://neetcode.io/
