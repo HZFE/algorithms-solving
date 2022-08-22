@@ -24,7 +24,7 @@
 - [ ] [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 - [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
-- [ ] [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+- [x] [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 - [ ] [Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [ ] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
