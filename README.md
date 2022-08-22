@@ -15,6 +15,6 @@
 
 <del>https://github.com/HZFE/algorithms-solving/blob/main/LIST.md</del>
 
-2022.8.22
+### 2022.8.22
 
 发现了一个很不错的算法题列表&讲解：https://neetcode.io/
